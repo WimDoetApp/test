@@ -1,16 +1,12 @@
-#########################
-Personeelsfeest - Team 18
-#########################
+# Personeelsfeest - Team 18
 
 PHP-applicatie voor project APP Hogeschool Thomas More 2de Jaar Toegepaste Informatica
 
-*************
-Collaborators
-*************
+#Collaborators
 
 Gemaakt door
 
--  `Wim Naudts <http://wimnaudts.sinners.be/>`_
--   Jari Mathé
--   Bram Van Bergen
--   Yen Aarts
+* Joske
+* [Wim Naudts](http://wimnaudts.sinners.be/)
+
+[Logo](https://3.bp.blogspot.com/-lz4jsfr5uck/WrKodwNlcbI/AAAAAAAAGfs/4Qt_mgk-jq02xKlZu32BtI8BI0Ondb6LgCLcBGAs/s1600/lucht.png)
